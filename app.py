@@ -331,7 +331,7 @@ with tab4:
         return ""
 
     st.dataframe(
-        df_pos.style.applymap(
+        df_pos.style.map(
             color_signal,
             subset=["🟢 Bull (25%)", "🟡 Base (45%)", "🔴 Bear (30%)"]
         ),
