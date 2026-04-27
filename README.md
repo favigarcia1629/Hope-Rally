@@ -4,7 +4,7 @@
 
 > The market rallied to all-time highs in April 2026. But was it driven by fundamentals — or hope?
 
-🔗 **[Live Interactive Dashboard](#)** *(link added after Streamlit deployment)*
+🔗 **[Live Interactive Dashboard](https://hope-rally-cjzjq9nirayafcjmj3hw4j.streamlit.app)**
 
 ---
 
